@@ -1,0 +1,8 @@
+# Python environment 
+venv/
+
+# macOS files 
+.DS_Store
+
+#PyCharm files (optional, but often helpful to exclude) 
+.idea/
