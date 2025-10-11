@@ -18,7 +18,7 @@
 
 ## Live Demo : Band Name Generator Project 
 ![Tip Calculator Demo](../assets/day02-tip-calculator.gif)
-Day
+
 ## How to Run
 1.  Run the `main.py` file.
 2.  Input the total bill amount.  

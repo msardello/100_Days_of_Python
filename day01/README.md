@@ -22,7 +22,7 @@
 
 ## Live Demo : Band Name Generator Project 
 ![Band Name Generator Demo](../assets/day01-band-name-generator.gif)
-Day
+
 ## How to Run
 1.  Run the `main.py` file.
 2.  Input the name of the city you grew up in.  
