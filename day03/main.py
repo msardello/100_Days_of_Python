@@ -29,7 +29,7 @@ if choice1 == "left":
           'Type "wait" to wait for a boat. Type "swim" to swim across.\n   ').lower()
     if choice2 == "wait":
         choice3 = input("You arrive at the island unharmed. There is a house with 3 doors. "
-                        "One red, one yellow and one blue. Which color do you choose\n   ").lower()
+                        "One red, one yellow and one blue. Which color do you choose?\n   ").lower()
         if choice3 == "red":
             print("You have entered a room full of fire! Game Over!")
         elif choice3 == "yellow":
