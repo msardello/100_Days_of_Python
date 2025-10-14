@@ -14,7 +14,7 @@
 - `+=, -=, *=, /=` Assignment operator
 
 ## Resources Introduced
-- docs.python.org - specifically for Floating-Point Arithmetic
+- [Python Floating Point Documentation](https://docs.python.org/3/tutorial/floatingpoint.html)
 
 ## Live Demo : Band Name Generator Project 
 ![Tip Calculator Demo](../assets/day02-tip-calculator.gif)

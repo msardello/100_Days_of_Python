@@ -16,9 +16,10 @@
 - `\n` to start a new line
 
 ## Resources Introduced
-- Stack Overflow
-- Thonny
-- W3Schools 
+- [StackOverflow](https://stackoverflow.com/) 
+- [Thonny.org](https://thonny.org/)
+- [W3Schools](https://www.w3schools.com/)
+
 
 ## Live Demo : Band Name Generator Project 
 ![Band Name Generator Demo](../assets/day01-band-name-generator.gif)

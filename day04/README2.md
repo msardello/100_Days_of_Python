@@ -19,10 +19,10 @@
 ## Resources Introduced
 - What Python uses for random number generation:
 - PRNG - pseudorandom number generator
-- Mersenne Twister - https://en.wikipedia.org/wiki/Mersenne_Twister
-- Khan Academy Video - https://www.youtube.com/watch?v=GtOt7EBNEwQ&ab_channel=KhanAcademyLabs
-- The Random module in Python - https://docs.python.org/3/library/random.html
-- Lists Documentation - https://docs.python.org/3/tutorial/datastructures.html
+- [Mersenne Twister](https://en.wikipedia.org/wiki/Mersenne_Twister)
+- [Khan Academy Randomization Video](https://www.youtube.com/watch?v=GtOt7EBNEwQ&ab_channel=KhanAcademyLabs)
+- [Python Random Module](https://docs.python.org/3/library/random.html)
+- [Python Lists Documentation ](https://docs.python.org/3/tutorial/datastructures.html)
 
 ## Live Demo : Rock Paper Scissors Game 
 ![Rock Paper Scissors Game Demo](../assets/day04-rock-paper-scissors-game.gif)

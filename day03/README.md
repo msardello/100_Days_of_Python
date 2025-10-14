@@ -14,7 +14,7 @@
 - `lower()` 
 
 ## Resources Introduced
-- ASCII Art - ascii.co.uk.art
+- [ASCII Art](https://ascii.co.uk/art)
 
 ## Live Demo : Treasure Island Game 
 ![Treasure Island Game Demo](../assets/day03-treasure-island-game.gif)
