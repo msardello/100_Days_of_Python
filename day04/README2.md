@@ -17,8 +17,7 @@
  
 
 ## Resources Introduced
-- What Python uses for random number generation:
-- PRNG - pseudorandom number generator
+- Python random number algorithm (pseudorandom number generator - "PRNG")
 - [Mersenne Twister](https://en.wikipedia.org/wiki/Mersenne_Twister)
 - [Khan Academy Randomization Video](https://www.youtube.com/watch?v=GtOt7EBNEwQ&ab_channel=KhanAcademyLabs)
 - [Python Random Module](https://docs.python.org/3/library/random.html)
