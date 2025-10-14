@@ -1,4 +1,4 @@
-# 🖥️ Day 3 - Control Flow and Logical Operations
+# 🐍️ Day 3 - Control Flow and Logical Operations
 
 ## Concepts Learned
 - Conditional Statements - if / else

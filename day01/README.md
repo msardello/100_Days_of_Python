@@ -1,4 +1,4 @@
-# 🐍 Day 1 - Working with Variables iN Python to Manage Data
+# 🐍 Day 1 - Working with Variables In Python to Manage Data
 
 ## Concepts Learned
 - Printing
