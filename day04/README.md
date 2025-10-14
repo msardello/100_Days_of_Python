@@ -1,4 +1,4 @@
-# 🐍 Day 4 - Control Flow and Logical Operations
+# 🐍 Day 4 - Randomization and Python Lists
 
 ## Concepts Learned
 - Modules and importing modules
