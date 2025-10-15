@@ -16,7 +16,7 @@
 ## Resources Introduced
 - [Python Floating Point Documentation](https://docs.python.org/3/tutorial/floatingpoint.html)
 
-## Live Demo : Band Name Generator Project 
+## Live Demo : Tip Calculator Project 
 ![Tip Calculator Demo](../assets/day02-tip-calculator.gif)
 
 ## How to Run
