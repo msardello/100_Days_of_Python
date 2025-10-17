@@ -14,7 +14,6 @@
 - `my_function()` - calling functions
 
 ## Resources Introduced
-- 
 - [Python Built-in Functions](https://docs.python.org/3/library/functions.html)
 - [Reeborg's World](https://www.udemy.com/course/100-days-of-code/learn/lecture/19110416#overview)
 - [PEP 8 - Style Guide for Python Code](https://peps.python.org/pep-0008/)
