@@ -26,7 +26,8 @@
 ## How to Run
 1.  There is not a `main.py` file for today's project.
 2.  Today's project was completed at [Reeborg's Maze Challenge](https://reeborg.ca/reeborg.html?lang=en&mode=python&menu=worlds%2Fmenus%2Freeborg_intro_en.json&name=Maze&url=worlds%2Ftutorial_en%2Fmaze1.json)
-3.  Both the code and project output are maintained on that site.   
+3.  Project Goal = Move Reeborg through a maze with a randomly generated starting point and facing direction.  
+4.  Both the code and project output are maintained on that site.   
 
 ## Output Example
 See Live Demo
