@@ -21,7 +21,7 @@
 - Tab Setting in PyCharm - set it to 4 spaces, then you can use Tab
 
 ## Live Demo : Reeborg's World Maze Challenge 
-![Password Generator Demo](../assets/day06-reeborgs-world-maze.gif)
+![Reebord's World Maze Challenge Demo](../assets/day06-reeborgs-world-maze.gif)
 
 ## How to Run
 1.  There is not a `main.py` file for today's project.
