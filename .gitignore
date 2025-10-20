@@ -6,3 +6,14 @@ venv/
 
 #PyCharm files (optional, but often helpful to exclude) 
 .idea/
+
+# Byte-compiled / optimized / DLL files
+__pycache__
+*.pyc
+*.pyd
+*.pyo
+
+# Testing and coverage 
+.pytest_cache/
+.coverage
+htmlcov/
