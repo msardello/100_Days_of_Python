@@ -16,9 +16,9 @@
 
 
 ## Links to Debugging Exercises
-![Exercise 1 - Debugging Odd and Even](./exercise1/Debugging_odd_even.py)
-![Exercise 2 - Debugging Leap Year](./exercise2/Debugging_leap_year.py)
-![Exercise 3 - Debugging FizzBuzz](./exercise3/Debugging_FizzBuzz.py)
+- [Exercise 1 - Debugging Odd and Even](./exercise1/Debugging_odd_even.py)
+- [Exercise 2 - Debugging Leap Year](./exercise2/Debugging_leap_year.py)
+- [Exercise 3 - Debugging FizzBuzz](./exercise3/Debugging_FizzBuzz.py)
 
 
 ## Instructions
