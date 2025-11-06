@@ -9,7 +9,7 @@
 - f-strings
 
 ## Live Demo : The Coffee Machine Project 
-![The Coffee Machine Demo](/../assets/day15-coffee-machine-project.gif)
+![The Coffee Machine Demo](../assets/day15-coffee-machine-project.gif)
 
 ## How to Run
 1.  Run the `main.py` file.
