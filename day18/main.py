@@ -36,7 +36,6 @@ while nbr_rows > 0:
     x = -250
     for nbr in range(nbr_columns):
         my_hirst.teleport(x, y)
-        # print(my_hirst.dot(20,random.choice(color_list)))
         my_hirst.dot(20, random.choice(color_list))
         x += 50
     y += 50
