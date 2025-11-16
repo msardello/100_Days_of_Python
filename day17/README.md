@@ -13,7 +13,7 @@
 - [Open Trivia Database](https://opentdb.com/)
 
 ## Live Demo : The Quiz Project (benefits of using OOP)
-![The Coffee Machine Demo](../assets/day17-the-quiz-project.gif)
+![The Quiz Project Demo](../assets/day17-the-quiz-project.gif)
 
 ## How to Run
 1.  Run the `main.py` file.
