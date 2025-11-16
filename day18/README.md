@@ -25,7 +25,7 @@
 - [Python Colorgram Package](https://pypi.org/project/colorgram.py/)
 
 ## Live Demo : The Hirst Painting Project 
-![The Coffee Machine Demo](../assets/day18-hirst-painting-project.gif)
+![The Hirst Painting Demo](../assets/day18-hirst-painting-project.gif)
 
 ## How to Run
 1.  Run the `main.py` file.
